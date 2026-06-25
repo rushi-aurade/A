@@ -2,5 +2,9 @@ class Demo{
 
 int i = 10;
 System.out.println(i);
+
 String name = "Rushikesh";
+}
+
+boolean name = true;
 }
