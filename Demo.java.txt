@@ -4,6 +4,7 @@ int i = 10;
 System.out.println(i);
 
 String name = "Rushikesh";
+System.out.println(name);
 }
 
 boolean name = true;
