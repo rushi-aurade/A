@@ -1,8 +1,12 @@
 class Demo{
 
-int i = 10;
-System.out.println(i);
+   public static void main(String[]args){
+    
+int age = 26;
+String name = "Ganesh Shivraj Aurade";
+  }
 
+<<<<<<< Updated upstream
 String name = "Rushikesh";
 System.out.println(name);
 }
@@ -12,4 +16,11 @@ boolean name = true;
   public void greetMessage(){
   System.out.println("Welcome Rushikesh Aurade!");  
 }
+=======
+   //JIRA-101
+   public void welcomeMessage(){
+    System.out.println("Welcome Here!");
+   }
+   
+>>>>>>> Stashed changes
 }
